@@ -6,7 +6,9 @@
 🚀 Currently Building SkillSwap & AlumConnect
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanmaharana99&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanmaharana99&layout=compact)
 ## 🛠️ Tech Stack
 
 ### Languages
